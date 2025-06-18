@@ -1,0 +1,7 @@
+websockets
+requests
+pandas
+numpy
+sqlalchemy
+matplotlib
+jupyterlab
